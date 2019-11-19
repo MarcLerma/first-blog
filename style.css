@@ -1,0 +1,223 @@
+.top { 
+    font-size: 30px;
+    text-align: center;
+    border: 2px solid black;
+    background-image: url(marcinarizona.JPG);
+    background-position: 50% 39% ;
+    background-size: cover;
+    margin: 4px;
+    height: 285px;
+    
+
+    
+}
+
+.top p {
+    font-size: 25px;
+    height: 10px;
+    position: relative;
+    padding-top: 7px;
+}
+
+.top h1{
+    height: 70px;
+    width: 650px;
+    text-align: center;
+    background-color: ghostwhite;
+    opacity: .75;
+    margin-left: 540px;
+    border-radius: 5px;
+        
+    
+}
+
+.TOB {
+    font-size: 35px;
+    border: double 3px white;
+    opacity: 1;
+    color: white;
+    padding-top: 40px; 
+}
+
+   
+.bloglist a {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    opacity: 1;
+    
+
+}
+
+.TOBarea {
+    background-image: url(flagstaff_campsite.JPG);
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    opacity: .8;
+}
+
+.blogtitle {
+    font-family: Helvetica;
+    font-size: 25px;
+    
+}
+
+.bloginfo {
+    font-size: 17px;
+    border-bottom: double black;
+}
+
+p.blogpost{
+    font-size: 16px;
+    font-family: Arial;
+    padding: 2px 5px;
+}
+.topnav {
+    text-align: center;
+    font-size: 25px;
+    background-image: url(sunset_in_the_rockies.JPG);
+    background-size: cover;
+    background-position: 20% 10%;
+    font-family: 'Playfair Display', serif; 
+    border: 3px solid black;
+    box-shadow: 5px 3px grey;
+    width: 900px;
+    margin-left: 350px;
+    height: 75px;
+    padding-right: 30px;
+    
+   
+}
+
+.topnav li {
+    list-style-type: none;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 9px;
+    padding-left: 9px;
+    border: 2px solid black;
+    display: inline;
+    box-shadow: 2px 3px black;
+    background-color: bisque;
+}
+
+.topnav a {
+    color: orangered;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.topnav a:visited {
+    color: indianred;
+    text-decoration: none;
+    
+    
+}
+
+.topnav a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+
+
+.first-blog {
+    font-size: 20px;
+    background-color: whitesmoke; 
+    padding: 3px;
+
+
+}
+
+.second-blog {
+    font-size: 20px;
+    background-color: whitesmoke;
+    padding: 3px;
+   
+}
+
+.bloginfo {
+    font-family: serif;
+    color: brown;
+}
+
+.centered {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 45px;
+    font-family: serif;
+    
+}
+
+.contact {
+    font-size: 14px;
+    font-family: serif;
+    opacity: .8px;
+    color: black;
+    background-color: azure
+    padding: 2px;
+    
+    
+}
+
+
+.aboutme {
+    background-image: url(me_onedge.JPG);
+    background-size: cover;
+    background-color: linear-gradient(black,white);
+    height: 350px;
+    background-position: 50% 80%;
+    margin-bottom: 15px;
+        
+}
+
+
+#aboutmetitle {
+    color: white;
+    font-size: 50px;
+    border: 2px solid black;
+    position: absolute;
+    background: black;
+    height: 50px;
+    width: 265px;
+    margin-left: 750px;
+    top: 95px;
+    border-radius: 15px;
+}
+
+.meetme {
+    min-width: 500px;
+    max-width: 1000px;
+    background-image: url(ouray.JPG);
+    text-align: center;
+    background-size: cover;
+    height: 500px;
+    margin-left: 325px;
+    padding: 35px;
+    
+        
+    
+    
+}
+
+header {
+    text-align: center;
+    height: 30px;
+    width: 250px;
+    margin-left: 700px;
+    background-color: bisque;
+    border: 4px double black;
+    border-width: medium;
+    border-radius: 10px;
+    box-shadow: 5px 2px black;
+    padding-bottom: 25px;
+    
+    
+}
